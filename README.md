@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=006644&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+Lucas+Eduardo!+👋;Desenvolvedor+Back-End+em+formação;Java+|+MySQL+|+JDBC;FATEC+Carapicuíba)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=006644&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+Lucas+Eduardo!+😎;Desenvolvedor+Back-End+em+formação;Java+|+MySQL+|+JDBC;FATEC+Carapicuíba)](https://git.io/typing-svg)
 
 ---
 
