@@ -23,15 +23,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=LucasEdu-Santos&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasEdu-Santos&layout=compact&theme=tokyonight"/>
-</div>
-
----
-
 ### 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasedu-santos)
